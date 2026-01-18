@@ -1,6 +1,6 @@
 ## Projektista:
 
-#Elokuva- tai sarja-arvostelusivusto 🎬
+# Elokuva- tai sarja-arvostelusivusto 🎬
 
 Idea: Käyttäjät voivat lisätä elokuvia ja antaa arvosanoja.
 Tietokanta:
